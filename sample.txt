@@ -1,14 +1,6 @@
-total 48
--rw-rw-r-- 1 ubuntu ubuntu  37 Sep 14 05:31 01_Printecho.sh
--rw-rw-r-- 1 ubuntu ubuntu  62 Sep 14 05:48 02_PrintVariable.sh
--rwxrwxr-x 1 ubuntu ubuntu  88 Sep 14 06:42 03_SumValue.sh
--rwxrwxr-x 1 ubuntu ubuntu 100 Sep 14 07:09 04_MulValue.sh
--rw-rw-r-- 1 ubuntu ubuntu  71 Sep 14 07:15 05_ArrayValue.sh
--rw-rw-r-- 1 ubuntu ubuntu 119 Sep 14 08:43 06_If_Condition.sh
--rw-rw-r-- 1 ubuntu ubuntu 256 Sep 14 08:58 07_If_Interactive.sh
--rw-rw-r-- 1 ubuntu ubuntu 569 Sep 14 09:54 08_Choice.sh
--rw-rw-r-- 1 ubuntu ubuntu 169 Sep 14 10:31 09_forLoop.sh
--rw-rw-r-- 1 ubuntu ubuntu  87 Sep 14 10:49 10_whileLoop.sh
--rw-rw-r-- 1 ubuntu ubuntu  60 Sep 14 16:24 11_InfinateWhile.sh
--rw-rw-r-- 1 ubuntu ubuntu  69 Sep 14 16:28 12_InfinateFor.sh
--rw-rw-r-- 1 ubuntu ubuntu   0 Sep 15 16:53 sample.txt
+PING www.google.com (142.251.42.4) 56(84) bytes of data.
+64 bytes from bom12s19-in-f4.1e100.net (142.251.42.4): icmp_seq=1 ttl=51 time=1.37 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.373/1.373/1.373/0.000 ms

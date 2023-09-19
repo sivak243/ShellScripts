@@ -1,0 +1,24 @@
+PING www.google.com (142.251.42.4) 56(84) bytes of data.
+64 bytes from bom12s19-in-f4.1e100.net (142.251.42.4): icmp_seq=1 ttl=51 time=1.39 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.387/1.387/1.387/0.000 ms
+PING www.google.com (142.251.42.4) 56(84) bytes of data.
+64 bytes from bom12s19-in-f4.1e100.net (142.251.42.4): icmp_seq=1 ttl=51 time=1.34 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.341/1.341/1.341/0.000 ms
+PING www.google.com (142.251.42.4) 56(84) bytes of data.
+64 bytes from bom12s19-in-f4.1e100.net (142.251.42.4): icmp_seq=1 ttl=51 time=1.43 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.430/1.430/1.430/0.000 ms
+PING www.google.com (142.251.42.4) 56(84) bytes of data.
+64 bytes from bom12s19-in-f4.1e100.net (142.251.42.4): icmp_seq=1 ttl=51 time=1.37 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 1.374/1.374/1.374/0.000 ms
