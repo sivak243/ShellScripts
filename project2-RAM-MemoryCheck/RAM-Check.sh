@@ -1,5 +1,18 @@
-#!/bin/bash
-#set -x
+!/bin/bash     
+
+
+set -x   # Debug mode
+set -e   # exist the script when there is an exception
+set -o pipefail # This should be used aling with Set -e .. When using the pipeline command
+
+
+#############################
+# Date : 24/Sep/2023
+# Developer : Siva Kumar K
+# This Script is to print the status of your RAM Memory
+# Incident : I12345678
+# 
+##############################
 
 x=$(free -h | grep "Mem:" | awk '{print $4}' | tr -d 'Mi')
 
